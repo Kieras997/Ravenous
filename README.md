@@ -1,1 +1,1 @@
-App based on Yelp app using Yelp api to check restaurants in your area.
+App based on Yelp using Yelp api to check restaurants in your area.
